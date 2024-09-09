@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 77d2e299c39171046bac9268cf0f845d
+  m_SerializeEntries:
+  - m_GUID: c1db09ac3ccffc742bbc907d839e8f3a
+    m_Address: Assets/Prefabs/Pipes.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f66584d9c68538948a882f0c60e5dad6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fa255376d44f8ff4fb57a4bf7ceef620, type: 2}
+    - {fileID: 11400000, guid: bbabde10b41a7404191d2d069c926fce, type: 2}
